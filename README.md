@@ -1,30 +1,25 @@
 Name: Daniel de Waal
 
-Age: 19
+Age: 21
 
-Occupation: Highschool Student
+Occupation: University Student
 
 Interests:
 - Graphics Programming
-- Cellular Automata
+- Piano
 
 Languages:
-- Python (3.x) - Advanced
-- C++ (C++14) - Intermediate
+- Python (Intermediate)
+- C++ (Advanced)
 
 Currently Learning:
-- OpenGL (C++)
+- Vulkan API
 
 Wants to Learn:
-- SFML (C++)
-- Vulcan (C++)
-- Pandas (Python)
-
-Completed Projects:
-- N/A
+- Audio Programming in C++
 
 Current Projects:
-- Pathfinding
+- 3D Renderer (Vulkan)
 
 Future Projects:
-- 2D Game Engine (C++/OpenGL)
+- Audio Synthesizer from scratch
