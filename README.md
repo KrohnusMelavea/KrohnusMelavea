@@ -8,18 +8,22 @@ Interests:
 - Graphics Programming
 - Piano
 
-Languages:
+Language (Beginner, Intermediate, Advanced, Expert):
+- SQL (Beginner)
 - Python (Intermediate)
+- C# (Beginner/Intermediate)
+- C (Beginner/Intermediate)
 - C++ (Advanced)
 
 Currently Learning:
-- Vulkan API
+- Vulkan
+- glTF Model Loading
 
 Wants to Learn:
 - Audio Programming in C++
 
 Current Projects:
-- 3D Renderer (Vulkan)
+- 3D Renderer
 
 Future Projects:
-- Audio Synthesizer from scratch
+- Audio playback from scratch
