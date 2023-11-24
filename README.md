@@ -8,7 +8,7 @@ Interests:
 - Graphics Programming
 - Piano
 
-Language (Beginner, Intermediate, Advanced, Expert):
+Self-Rated Language Proficiency:
 - SQL (Beginner)
 - Python (Intermediate)
 - C# (Beginner/Intermediate)
