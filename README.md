@@ -5,7 +5,8 @@ Age: 21
 Occupation: University Student
 
 Interests:
-- Graphics Programming
+- Low-Level Graphics Programming
+- Low-Level Optimization
 - Piano
 
 Self-Rated Language Proficiency:
