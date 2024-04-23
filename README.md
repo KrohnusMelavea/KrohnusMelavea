@@ -1,8 +1,8 @@
 Name: Daniel de Waal
 
-Age: 21
+Age: 22
 
-Occupation: University Student
+Occupation: 3'rd Year University Student
 
 Interests:
 - Low-Level Graphics Programming
@@ -10,21 +10,24 @@ Interests:
 - Piano
 
 Self-Rated Language Proficiency:
-- SQL (Beginner)
-- Python (Intermediate)
+- SQL (Beginner/Intermediate)
+- Python 3 (Intermediate)
 - C# (Beginner/Intermediate)
-- C (Beginner/Intermediate)
+- C (Intermediate)
 - C++ (Advanced)
+- ASM x86-64 (Beginner/Intermediate)
 
 Currently Learning:
 - Vulkan
-- glTF Model Loading
+- glTF Model Loading from Scratch
+- ASM x86-64
 
 Wants to Learn:
-- Audio Programming in C++
+- Low-Level Audio Programming in C++
 
 Current Projects:
 - 3D Renderer
+- GUI Framework
 
 Future Projects:
 - Audio playback from scratch
