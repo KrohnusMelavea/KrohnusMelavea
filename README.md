@@ -1,9 +1,3 @@
-Name: Daniel de Waal
-
-Age: 22
-
-Occupation: 3'rd Year University Student
-
 Interests:
 - Low-Level Graphics Programming
 - Low-Level Optimization
