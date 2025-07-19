@@ -4,24 +4,27 @@ Interests:
 - Piano
 
 Self-Rated Language Proficiency:
-- SQL (Beginner/Intermediate)
+- SQL (Intermediate)
 - Python 3 (Intermediate)
-- C# (Beginner/Intermediate)
+- C# (Intermediate/Advanced)
 - C (Intermediate)
 - C++ (Advanced)
 - ASM x86-64 (Beginner/Intermediate)
+- TypeScript (Beginner/Intermediate)
 
-Currently Learning:
+Self-Rated Framework Proficiency:
+- MySQL: Intermediate
+- MSSQL: Intermediate
+- Angular: Beginner/Intermediate
+
+Wants to Learn:
+- Low-Level Audio Programming in C++
 - Vulkan
 - glTF Model Loading from Scratch
 - ASM x86-64
 
-Wants to Learn:
-- Low-Level Audio Programming in C++
-
 Current Projects:
-- 3D Renderer
-- GUI Framework
+- lib_cpp
 
 Future Projects:
 - Audio playback from scratch
