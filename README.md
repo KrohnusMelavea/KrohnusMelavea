@@ -1,7 +1,8 @@
 Interests:
-- Low-Level Graphics Programming
-- Low-Level Optimization
-- Piano
+- Graphics Programming
+- Optimization
+- Network Programming
+- Software Infrastructure
 
 Self-Rated Language Proficiency:
 - SQL (Intermediate)
